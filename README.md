@@ -1,4 +1,7 @@
 # MovieScroll
+
+#NOTE: the workspace is in a zip file and the pod library directory is in a zip file
+
 Simple movie scroll using table features of Swift iOS
 
 Submitted by: kent c
