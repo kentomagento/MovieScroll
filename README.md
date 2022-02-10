@@ -2,7 +2,7 @@
 
 #NOTE: the workspace is in a zip file and the pod library directory is in a zip file
 
-Simple movie scroll using table features of Swift iOS
+MovieScroll is an app that will allow a user to scroll through different avilable movies.
 
 Submitted by: kent c
 
@@ -11,6 +11,9 @@ Time spent: 4 hours spent in total
 ## User Stories
 
 The following functionality is complete:
+*[√] User can look up movies and their synopsis
+*[√] User can see poster in relation to the movies they are looking through
+
 
 Scrolling movies that are called from a web api, implementing cocoapods and AlamofireImage
 
