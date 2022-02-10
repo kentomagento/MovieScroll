@@ -1,0 +1,6 @@
+framework module Pods_TableWeek1_TableWeek1UITests {
+  umbrella header "Pods-TableWeek1-TableWeek1UITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
