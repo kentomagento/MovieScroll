@@ -6,7 +6,7 @@ MovieScroll is an app that will allow a user to scroll through different avilabl
 
 Submitted by: kent c
 
-Time spent: 4 hours spent in total
+Time spent: 4.5 hours spent in total
 
 ## User Stories
 
