@@ -8,6 +8,8 @@
 import UIKit
 import AlamofireImage
 class MovieDetailsViewController: UIViewController {
+   
+    
     
     
     @IBOutlet weak var backdropView: UIImageView!
