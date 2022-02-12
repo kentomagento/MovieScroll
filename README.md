@@ -43,7 +43,7 @@ Scrolling movies that are called from a web api, implementing cocoapods and Alam
 
 Here's gif of execution
 
-![Alt Text](https://github.com/kentomagento/MovieScroll/blob/main/week1_codepath.gif)
+![Alt Text](https://github.com/kentomagento/MovieScroll/blob/main/week2_codepath.gif)
 
 GIF created with Quicktime
 
