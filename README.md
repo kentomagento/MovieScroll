@@ -13,7 +13,7 @@
 ### App Walkthrough GIF
 `TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
 
-![Alt text](https://github.com/kentomagento/MovieScroll/blob/main/week2_codepath.gif)
+![Alt text](https://github.com/kentomagento/MovieScroll/blob/main/week2.gif)
 
 ### Notes
 challenges
