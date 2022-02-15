@@ -32,8 +32,8 @@ Time spent: 4.5 hours spent in total
 
 The following functionality is complete:
 
-* [√] User can look up movies and their synopsis
-* [√] User can see poster in relation to the movies they are looking through
+* [x] User can look up movies and their synopsis
+* [x] User can see poster in relation to the movies they are looking through
 
 
 Scrolling movies that are called from a web api, implementing cocoapods and AlamofireImage
